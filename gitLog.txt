@@ -1,0 +1,29 @@
+commit ab01d8236434ab3d3a835e576406932c9f689b3d
+Author: lrgeorge27 <lrgeorge27@gmail.com>
+Date:   Tue Oct 31 17:41:42 2017 +0000
+
+    create notes.txt
+
+commit c364a1ac0554425bb2f9de9d96acb8670b4d6541
+Author: lrgeorge27 <lrgeorge27@gmail.com>
+Date:   Tue Oct 31 17:35:58 2017 +0000
+
+    minor modification
+
+commit 4bbd0b9b440d78ef71c0c4868e77c7b2d38ea671
+Author: lrgeorge27 <lrgeorge27@gmail.com>
+Date:   Tue Oct 31 03:17:31 2017 +0000
+
+    finish first page wout photo
+
+commit f78b93b66a74fb06d6ef3e157a6f92762b2f643c
+Author: lrgeorge27 <lrgeorge27@gmail.com>
+Date:   Tue Oct 31 03:11:41 2017 +0000
+
+    added second page
+
+commit 98c2bc903d60a87140e3c811747bc596e42ae71b
+Author: lrgeorge27 <lrgeorge27@gmail.com>
+Date:   Tue Oct 31 02:50:58 2017 +0000
+
+    Changes up to class image
